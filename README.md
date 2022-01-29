@@ -41,7 +41,36 @@ Coming soon!
 
 ### Social Links
 
-Coming Soon!
+<a href="https://github.com/KK-Designs">
+  <img align="center" src="https://github.githubassets.com/favicons/favicon.png" />
+  <p>KK-Designs<p/>
+</a>
+
+
+<a href="https://open.spotify.com/user/tdch4qzlrauuzpg3o8mvg9ix7">
+  <img align="center" src="https://open.scdn.co/cdn/images/favicon32.8e66b099.png" />
+  <p>NotBacon<p/>
+</a>
+
+<a href="https://www.twitch.tv/notbaconwastaken">
+  <img align="center" src="https://static.twitchcdn.net/assets/favicon-32-e29e246c157142c94346.png" />
+  <p>NotBacon09<p/>
+</a>
+
+<a href="https://www.youtube.com/channel/UCOTUSsm_zy3cJxIbY0mcWJw">
+  <img align="center" src="https://www.youtube.com/s/desktop/ca9cd554/img/favicon_32x32.png" />
+  <p>NotBacon<p/>
+</a>
+
+<a href="https://www.reddit.com/user/BaconMan2009">
+  <img align="center" src="https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png" />
+  <p>NotBacon (BaconMan2009)<p/>
+</a>
+
+<a href="https://steamcommunity.com/profiles/76561199169020120">
+  <img align="center" src="https://user-images.githubusercontent.com/71038229/151681478-dab6e36c-6045-424b-a1bc-2bb572ab3d93.png" />
+  <p>BaconMan2009<p/>
+</a>
 
 ---
 
