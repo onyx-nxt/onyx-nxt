@@ -41,7 +41,7 @@ Coming soon!
 ### Social Links
 
 <a href="https://github.com/KK-Designs">
-  <img align="center" src="https://github.githubassets.com/favicons/favicon.png" />
+  <img align="center" src="https://user-images.githubusercontent.com/71038229/151719234-8c3dc042-1d10-4e74-bbc1-e785dd320b09.png" />
   <p>KK-Designs<p/>
 </a>
 
