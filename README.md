@@ -11,7 +11,6 @@ Coming soon!
 - Javascript
   - Node.js
   - React
-  - _Jscript_
 - Typescript
 - Batch
 
