@@ -8,37 +8,28 @@
 <details>
     <summary><b>Languages I know</b></summary>
 
-    <ul>
-        <li>HTML</li>
-
-        <li>CSS</li>
-
-        <li>
-            Javascript
-
-            <ul>
-                <li>Node.js</li>
-
-                <li>React</li>
-            </ul>
-        </li>
-
-        <li>Typescript</li>
-
-        <li>Batch</li>
-    </ul>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>
+Javascript
+<ul>
+<li>Node.js</li>
+<li>React</li>
+</ul>
+</li>
+<li>Typescript</li>
+<li>Batch</li>
+</ul>
 </details>
 
 <details>
     <summary><b>Languages I want to learn</b></summary>
-
-    <ul>
-        <li>C#</li>
-
-        <li>SQL</li>
-
-        <li>Python</li>
-    </ul>
+<ul>
+<li>C#</li>
+<li>SQL</li>
+<li>Python</li>
+</ul>
 </details>
 
 <hr />
@@ -46,41 +37,29 @@
 <details>
     <summary><b>My projects</b></summary>
 
-    <ul>
-        <li>COOL BOI BOT</li>
-
-        <li>Group Driving</li>
-
-        <li>Ezstats</li>
-
-        <li>
-            Fitbit applications
-
-            <ul>
-                <li>Blue wave</li>
-
-                <li>Clean Stats</li>
-
-                <li>My Dash</li>
-
-                <li>Weather Face</li>
-
-                <li>Last synced</li>
-            </ul>
-        </li>
-
-        <li>
-            NPM Modules
-
-            <ul>
-                <li>Version Tools</li>
-
-                <li>Console Embed</li>
-
-                <li>Github Info</li>
-            </ul>
-        </li>
-    </ul>
+<ul>
+<li>COOL BOI BOT</li>
+<li>Group Driving</li>
+<li>Ezstats</li>
+<li>
+Fitbit applications
+<ul>
+<li>Blue wave</li>
+<li>Clean Stats</li>
+<li>My Dash</li>
+<li>Weather Face</li>
+<li>Last Synced</li>
+</ul>
+</li>
+<li>
+NPM Modules
+<ul>
+<li>Version Tools</li>
+<li>Console Embed</li>
+<li>Github Info</li>
+</ul>
+</li>
+</ul>
 </details>
 
 <hr />
