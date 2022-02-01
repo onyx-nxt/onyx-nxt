@@ -24,7 +24,8 @@ Javascript
 </details>
 
 <details>
-    <summary><b>Languages I want to learn</b></summary>
+    <summary><b>Languages I know</b></summary>
+
 <ul>
 <li>C#</li>
 <li>SQL</li>
@@ -64,8 +65,10 @@ NPM Modules
 
 <hr />
 
-<h3>Social Links</h3>
+<details open>
+    <summary><b>Social Links</b></summary>
 
+<br/>
 <a href="https://github.com/KK-Designs">
     <img src="https://user-images.githubusercontent.com/71038229/151719234-8c3dc042-1d10-4e74-bbc1-e785dd320b09.png" />
     <p>KK-Designs</p>
@@ -95,6 +98,7 @@ NPM Modules
     <img src="https://user-images.githubusercontent.com/71038229/151681478-dab6e36c-6045-424b-a1bc-2bb572ab3d93.png" />
     <p>BaconMan2009</p>
 </a>
+</details>
 
 <hr />
 
