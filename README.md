@@ -24,7 +24,7 @@ Javascript
 </details>
 
 <details>
-    <summary><b>Languages I know</b></summary>
+    <summary><b>Languages I want know</b></summary>
 
 <ul>
 <li>C#</li>
