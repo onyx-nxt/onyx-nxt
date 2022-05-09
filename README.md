@@ -40,7 +40,6 @@ Javascript
 
 <ul>
 <li>COOL BOI BOT</li>
-<li>Group Driving</li>
 <li>Ezstats</li>
 <li>
 Fitbit applications
