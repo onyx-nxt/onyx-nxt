@@ -1,11 +1,11 @@
-<h1>Hi there! 👋</h1>
+<h1 align="center">Hi there! 👋</h1>
 
-<h3>About me</h3>
-<p>Coming soon!</p>
+<h2 align="center">About me</h2>
+<p align="center">Coming soon!</p>
 
 <hr />
 
-<details>
+<details open>
     <summary><b>Languages I know</b></summary>
 
 <ul>
@@ -23,19 +23,18 @@ Javascript
 </ul>
 </details>
 
-<details>
+<details open>
     <summary><b>Languages I want know</b></summary>
 
 <ul>
 <li>C#</li>
-<li>SQL</li>
 <li>Python</li>
 </ul>
 </details>
 
 <hr />
 
-<details>
+<details open>
     <summary><b>My projects</b></summary>
 
 <ul>
@@ -56,7 +55,6 @@ NPM Modules
 <ul>
 <li>Version Tools</li>
 <li>Console Embed</li>
-<li>Github Info</li>
 </ul>
 </li>
 </ul>
@@ -109,14 +107,14 @@ NPM Modules
 <h3>My Stats:</h3>
 
 <a href="https://stackoverflow.com/users/15356407/k-k-desgins">
-	<img src="https://stackoverflow.com/users/flair/15356407.png?theme=dark" width="208" height="58" alt="profile for K.K Desgins at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for K.K Desgins at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+	<img align="center" src="https://stackoverflow.com/users/flair/15356407.png?theme=dark" width="208" height="58" alt="profile for K.K Desgins at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for K.K Desgins at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
 <br />
 <a href="https://github.com/KK-Designs">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=KK-Designs&theme=algolia&border_color=30363d&show_icons=true" />
 </a>
 <a href="https://github.com/KK-Designs">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KK-Designs&theme=algolia&border_color=30363d&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KK-Designs&theme=algolia&border_color=30363d&layout=compact" />
 </a>
 
 <!--
