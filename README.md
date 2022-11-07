@@ -72,7 +72,7 @@ NPM Modules
 </a>
 <br />
 <a href="https://open.spotify.com/user/tdch4qzlrauuzpg3o8mvg9ix7">
-    <img align="left" src="https://open.scdn.co/cdn/images/favicon32.8e66b099.png" />
+    <img align="left" src="https://open.spotifycdn.com/cdn/images/favicon32.8e66b099.png" />
     <p>NotBacon</p>
 </a>
 <br />
