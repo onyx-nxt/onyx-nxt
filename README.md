@@ -86,7 +86,7 @@ NPM Modules
     <p>K.K Designs</p>
 </a>
 <br />
-<a href="https://www.youtube.com/channel/UCOTUSsm_zy3cJxIbY0mcWJw">
+<a href="https://www.youtube.com/channel/UC50xwk-zFy13EsRGpNqSIXQ">
     <img align="left" src="https://www.youtube.com/s/desktop/ca9cd554/img/favicon_32x32.png" />
     <p>NotBacon</p>
 </a>
