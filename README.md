@@ -39,6 +39,7 @@ Javascript
 
 <ul>
 <li>COOL BOI BOT</li>
+<li>UpdateHub</li>
 <li>Ezstats</li>
 <li>
 Fitbit applications
@@ -71,19 +72,24 @@ NPM Modules
     <p>KK-Designs</p>
 </a>
 <br />
+<a href="https://stackoverflow.com/users/15356407/k-k-desgins">
+    <img align="left" width="32" height="32" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196" />
+    <p>K.K Designs</p>
+</a>
+<br />
 <a href="https://open.spotify.com/user/tdch4qzlrauuzpg3o8mvg9ix7">
     <img align="left" src="https://open.spotifycdn.com/cdn/images/favicon32.8e66b099.png" />
     <p>NotBacon</p>
 </a>
 <br />
-<a href="https://www.twitch.tv/notbaconwastaken">
-    <img align="left" src="https://static.twitchcdn.net/assets/favicon-32-e29e246c157142c94346.png" />
-    <p>NotBacon09</p>
+<a href="https://twitter.com/NotBacon__">
+    <img align="left" src="https://abs.twimg.com/favicons/twitter.2.ico" />
+    <p>NotBacon__</p>
 </a>
 <br />
-<a href="https://stackoverflow.com/users/15356407/k-k-desgins">
-    <img align="left" width="32" height="32" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196" />
-    <p>K.K Designs</p>
+<a href="https://www.reddit.com/user/BaconMan2009">
+    <img align="left" src="https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png" />
+    <p>NotBacon (BaconMan2009)</p>
 </a>
 <br />
 <a href="https://www.youtube.com/channel/UC50xwk-zFy13EsRGpNqSIXQ">
@@ -91,9 +97,9 @@ NPM Modules
     <p>NotBacon</p>
 </a>
 <br />
-<a href="https://www.reddit.com/user/BaconMan2009">
-    <img align="left" src="https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png" />
-    <p>NotBacon (BaconMan2009)</p>
+<a href="https://www.twitch.tv/notbacon___">
+    <img align="left" src="https://static.twitchcdn.net/assets/favicon-32-e29e246c157142c94346.png" />
+    <p>NotBacon___</p>
 </a>
 <br />
 <a href="https://steamcommunity.com/profiles/76561199169020120">
