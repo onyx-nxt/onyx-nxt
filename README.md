@@ -101,17 +101,22 @@ NPM Modules
 
 <hr />
 
+<img align="center" src="https://readme-jokes.vercel.app/api">
+
 <h3>My Stats:</h3>
 
 <a href="https://stackoverflow.com/users/15356407/k-k-desgins">
 	<img align="center" src="https://stackoverflow.com/users/flair/15356407.png?theme=dark" width="208" height="58" alt="profile for K.K Desgins at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for K.K Desgins at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
 <br />
+<br />
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KK-Designs&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="KK-Designs" /></p>
+<p align="center"> <a href="https://github.com/KK-Designs"><img src="https://github-profile-trophy.vercel.app/?username=KK-Designs&margin-w=5&theme=radical" alt="KK-Designs" /></a> </p>
 <a href="https://github.com/KK-Designs">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=KK-Designs&theme=algolia&border_color=30363d&show_icons=true" />
+    <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=KK-Designs&theme=algolia&border_color=30363d&show_icons=true" />
 </a>
 <a href="https://github.com/KK-Designs">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KK-Designs&theme=algolia&border_color=30363d&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KK-Designs&theme=algolia&border_color=30363d&layout=compact" />
 </a>
 
 <!--
