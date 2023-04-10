@@ -23,38 +23,29 @@ Javascript
 </ul>
 </details>
 
-<details open>
-    <summary><b>Languages I want know</b></summary>
-
-<ul>
-<li>C#</li>
-<li>Python</li>
-</ul>
-</details>
-
 <hr />
 
 <details open>
     <summary><b>My projects</b></summary>
 
 <ul>
-<li>COOL BOI BOT</li>
-<li>UpdateHub</li>
-<li>Ezstats</li>
+<li><a href="https://github.com/KK-Designs/COOL-BOI-BOT" target="_blank">COOL BOI BOT</a></li>
+<li><a href="https://github.com/KK-Designs/UpdateHub" target="_blank">UpdateHub</a></li>
+<li><a href="https://ezstats.app/" target="_blank">Ezstats</a></li>
 <li>
 Fitbit applications
 <ul>
-<li>Blue wave</li>
-<li>Clean Stats</li>
-<li>My Dash</li>
-<li>Weather Face</li>
-<li>Last Synced</li>
+<li><a href="https://gallery.fitbit.com/details/8523989f-06ec-482c-bbd2-05f4135e551f" target="_blank">Blue wave</a></li>
+<li><a href="https://gallery.fitbit.com/details/6acea53b-b8f6-4e38-b94a-20d09596d712" target="_blank">Clean Stats</a></li>
+<li><a href="https://gallery.fitbit.com/details/16be1cd3-a3d0-4a0c-a307-02155a16c199" target="_blank">Weather Face</a></li>
+<li><a href="https://gallery.fitbit.com/details/2b06cb61-564d-4108-9433-ad4aceb96a28" target="_blank">My Dash</a></li>
+<li><a href="https://gallery.fitbit.com/details/b2fc0ecb-bbc8-4894-86ff-bc217b529254" target="_blank">Last Synced</a></li>
 </ul>
 </li>
 <li>
 NPM Modules
 <ul>
-<li>Version Tools</li>
+<li><a href="https://github.com/KK-Designs/version-tools" target="_blank">Version Tools</a></li>
 <li>Console Embed</li>
 </ul>
 </li>
