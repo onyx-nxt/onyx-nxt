@@ -11,11 +11,13 @@
 			Javascript
 			<ul>
 				<li>Node.js</li>
-				<li>React</li>
+				<li>Electron</li>
+   <li>Express</li>
 			</ul>
 		</li>
 		<li>Typescript</li>
 		<li>Batch</li>
+ <li>PowerShell</li>
 	</ul>
 </details>
 <hr />
