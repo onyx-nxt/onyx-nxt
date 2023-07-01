@@ -20,6 +20,7 @@
  <li>PowerShell</li>
 	</ul>
 </details>
+<p>Might learn C#, Ruby, Rust, or Java in the future!</p>
 <hr />
 <details open>
 	<summary><b>My projects</b></summary>
