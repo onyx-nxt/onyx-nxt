@@ -108,6 +108,12 @@
 <a href="https://github.com/KK-Designs">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KK-Designs&theme=algolia&border_color=30363d&layout=compact" />
 </a>
+<br />
+<div align="center">
+<a href="https://github.com/KK-Designs">
+<img align="center" src="https://komarev.com/ghpvc/?username=KK-Designs&color=%23000000&style=for-the-badge" />
+</a>
+	</div>
 <!--
 	**KK-Designs/KK-Designs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 	
