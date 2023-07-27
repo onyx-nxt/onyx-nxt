@@ -49,7 +49,7 @@
 	</ul>
 </details>
 <hr />
-<details open>
+<details>
 	<summary><b>Social Links</b></summary>
 	<br/>
 	<a href="https://github.com/KK-Designs">
@@ -85,11 +85,6 @@
 	<a href="https://www.twitch.tv/notbacon___">
 		<img align="left" src="https://static.twitchcdn.net/assets/favicon-32-e29e246c157142c94346.png" />
 		<p>NotBacon___</p>
-	</a>
-	<br />
-	<a href="https://steamcommunity.com/profiles/76561199169020120">
-		<img align="left" src="https://user-images.githubusercontent.com/71038229/151681478-dab6e36c-6045-424b-a1bc-2bb572ab3d93.png" />
-		<p>BaconMan2009</p>
 	</a>
 </details>
 <hr />
