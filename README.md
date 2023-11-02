@@ -86,7 +86,6 @@
 		<img align="left" src="https://static.twitchcdn.net/assets/favicon-32-e29e246c157142c94346.png" />
 		<p>NotBacon___</p>
 	</a>
-	<p><i>Some of these are personal social media accounts and may not have KK-Designs product-related content. They are meant to be used as alternative forms of contact if there is no better way.</i></p>
 </details>
 <hr />
 <img align="center" src="https://readme-jokes.vercel.app/api">
