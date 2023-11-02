@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋</h1>
 <h2 align="center">About me</h2>
-<p align="center">We are testing a rebrand, you are at formerly K.K Design's GitHub profile right now<br />Coming soon!</p>
+<p align="center">Coming soon!</p>
 <hr />
 <details open>
 	<summary><b>Languages I know</b></summary>
