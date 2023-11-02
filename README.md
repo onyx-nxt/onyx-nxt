@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋</h1>
 <h2 align="center">About me</h2>
-<p align="center">Coming soon!</p>
+<p align="center">The account handle isn't good or true really anymore. Kept for compatibility purposes<br />Coming soon!</p>
 <hr />
 <details open>
 	<summary><b>Languages I know</b></summary>
