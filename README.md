@@ -1,8 +1,8 @@
 <h1 align="center">Hi there! 👋</h1>
 <h2 align="center">About me</h2>
-<p align="center">The account handle isn't good or true really anymore. Kept for compatibility purposes<br />Coming soon!</p>
+<p align="center">Formerly KK-Designs<br />Coming soon!</p>
 <hr />
-<details open>
+<!--<details open>
 	<summary><b>Languages I know</b></summary>
 	<ul>
 		<li>HTML</li>
@@ -81,36 +81,29 @@
 		<img align="left" src="https://www.youtube.com/s/desktop/ca9cd554/img/favicon_32x32.png" />
 		<p>NotBacon</p>
 	</a>
-	<br />
-	<a href="https://www.twitch.tv/notbacon___">
-		<img align="left" src="https://static.twitchcdn.net/assets/favicon-32-e29e246c157142c94346.png" />
-		<p>NotBacon___</p>
-	</a>
 </details>
-<hr />
+<hr />-->
+<br />
 <img align="center" src="https://readme-jokes.vercel.app/api">
 <h3>My Stats:</h3>
-<a href="https://stackoverflow.com/users/15356407/k-k-desgins">
-<img align="center" src="https://stackoverflow.com/users/flair/15356407.png?theme=dark" width="208" height="58" alt="profile for K.K Desgins at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for K.K Desgins at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
+<a href="https://stackoverflow.com/users/15356407/onyx"><img align="center" src="https://stackoverflow.com/users/flair/15356407.png?theme=dark" width="208" height="58" alt="profile for Onyx at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Onyx at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <br />
-<br />
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KK-Designs&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="KK-Designs" /></p>
-<p align="center"> <a href="https://github.com/KK-Designs"><img src="https://github-profile-trophy.vercel.app/?username=KK-Designs&margin-w=5&theme=radical" alt="KK-Designs" /></a> </p>
-<a href="https://github.com/KK-Designs">
-<img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=KK-Designs&theme=algolia&border_color=30363d&show_icons=true" />
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=onyx-nxt&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="onyx-nxt" /></p>
+<p align="center"> <a href="https://github.com/onyx-nxt"><img src="https://github-profile-trophy.vercel.app/?username=onyx-nxt&margin-w=5&theme=radical" alt="KK-Designs" /></a> </p>
+<a href="https://github.com/onyx-nxt">
+<img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=onyx-nxt&theme=algolia&border_color=30363d&show_icons=true" />
 </a>
-<a href="https://github.com/KK-Designs">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KK-Designs&theme=algolia&border_color=30363d&layout=compact" />
+<a href="https://github.com/onyx-nxt">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onyx-nxt&theme=algolia&border_color=30363d&layout=compact" />
 </a>
 <br />
 <div align="center">
-<a href="https://github.com/KK-Designs">
-<img align="center" src="https://komarev.com/ghpvc/?username=KK-Designs&color=%23000000&style=for-the-badge" />
+<a href="https://github.com/onyx-nxt">
+<img align="center" src="https://komarev.com/ghpvc/?username=onyx-nxt&color=%23000000&style=for-the-badge" />
 </a>
 	</div>
 <!--
-	**KK-Designs/KK-Designs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+	**onyx-nxt/onyx-nxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 	
 	Here are some ideas to get you started:
 	
