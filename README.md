@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋</h1>
 <h2 align="center">About me</h2>
-<p align="center">Formerly KK-Designs<br />Coming soon!</p>
+<p align="center">Formerly KK-Designs<br />I'll finish writing this soon... trust</p>
 <hr />
 <!--<details open>
 	<summary><b>Languages I know</b></summary>
